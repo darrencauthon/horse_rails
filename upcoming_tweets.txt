@@ -48,3 +48,4 @@ my flash message won't persist
 
 i put all my stuff in one place
 
+whats a for loop
