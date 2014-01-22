@@ -46,3 +46,5 @@ the migrations don't work
 
 my flash message won't persist
 
+i put all my stuff in one place
+
