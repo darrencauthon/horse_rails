@@ -1,0 +1,49 @@
+my happiness first, customers second, the next guy to work on this third
+
+suggesting books i’ll never read
+
+you could fix that by switching to vim
+
+time for your code review
+
+rails generators for rails generators, metaprogramming
+
+if you’re worried that you don’t have imposter syndrome, you have imposter syndrome
+
+ruby is elegant, you can shrink a lot of code into one line that doesn’t work
+
+i’m open-minded, are you?
+
+i need to subscribe to more screencasts
+
+my actions are clean, i do everything in before filters
+
+nil?
+
+if god wanted fast tests, he wouldn’t have made me
+
+cute gem names
+
+you use mysql lol
+
+if you think you’re not a newbie, you’re a newbie
+
+my site is fast after the free dyno warms up
+
+i don’t think i’m right, i know i’m right
+
+rails gives you the first test for free
+
+i was against coffeescript until it was cooler to comply
+
+i test new gems in production
+
+speed is relative     
+
+slow apps built fast
+
+welcome to rails!
+
+the migrations don’t work
+
+my flash message won’t persist
