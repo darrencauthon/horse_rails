@@ -28,7 +28,7 @@ you use mysql lol
 
 my site is fast after the free dyno warms up
 
-i don’t think i'm right, i know i'm right
+i don't think i'm right, i know i'm right
 
 rails gives you the first test for free
 
