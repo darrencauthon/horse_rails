@@ -49,3 +49,5 @@ my flash message won't persist
 i put all my stuff in one place
 
 whats a for loop
+
+rails is fast if you turn on page caching
