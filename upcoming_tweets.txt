@@ -51,3 +51,11 @@ i put all my stuff in one place
 whats a for loop
 
 rails is fast if you turn on page caching
+
+someone ought to make a gem for that
+
+you're not supposed to test controllers
+
+who are you to question the rules
+
+helpers can help you generate html
