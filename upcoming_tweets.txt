@@ -59,3 +59,5 @@ you're not supposed to test controllers
 who are you to question the rules
 
 helpers can help you generate html
+
+the rails way there is no other
