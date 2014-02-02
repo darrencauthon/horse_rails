@@ -63,3 +63,5 @@ helpers can help you generate html
 the rails way there is no other
 
 there are no tests on that part of the app, but that's ok
+
+you got a computer science degree? lol
