@@ -65,3 +65,9 @@ the rails way there is no other
 there are no tests on that part of the app, but that's ok
 
 you got a computer science degree? lol
+
+we have reached a consensus on how to web dev
+
+can't wait for rails 5, what's in it?
+
+but if i told you the problems i had with it, you wouldn't use it
