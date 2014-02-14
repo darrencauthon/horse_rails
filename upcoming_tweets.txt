@@ -71,3 +71,7 @@ we have reached a consensus on how to web dev
 can't wait for rails 5, what's in it?
 
 but if i told you the problems i had with it, you wouldn't use it
+
+relational databases are for the serious apps
+
+rails apps compile to SQL
