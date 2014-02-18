@@ -77,3 +77,5 @@ relational databases are for the serious apps
 rails apps compile to SQL
 
 don't look the asset pipeline in the eyes
+
+it's not the framework, therefore it's you
