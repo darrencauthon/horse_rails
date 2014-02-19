@@ -79,3 +79,5 @@ rails apps compile to SQL
 don't look the asset pipeline in the eyes
 
 it's not the framework, therefore it's you
+
+i build my app against one database, and test it against another
