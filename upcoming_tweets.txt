@@ -81,3 +81,7 @@ don't look the asset pipeline in the eyes
 it's not the framework, therefore it's you
 
 i build my app against one database, and test it against another
+
+i'd be afraid to use anything but rails
+
+the sinatra guys... they just don't get it
